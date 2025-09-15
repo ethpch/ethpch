@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-ethpch. Bachelor major is Software Engineering, graduated at 07/2021.
+ethpch.
 
-Using .NET platform(C#) to develop desktop application at present, sometimes write python including system scripts and Machine Learning projects.
+.NET for desktop applications, and Python for scripts.
+
+WPF, Avalonia with ReactiveUI.
+
+Django, FastAPI.
